@@ -1,8 +1,8 @@
 # BatStat-RunsPredictor
 
-# 🏏 Runs Predictor
+# 🏏 BatStat : RunsPredictor
 
-**Runs Predictor** is a machine learning project that predicts the total runs a batsman will score in an IPL match using player stats, match context, and historical performance. Built with Python and XGBoost, it provides a data-driven approach to understanding player performance.
+**BatStat** is a machine learning project that predicts the total runs a batsman will score in an IPL match using player stats, match context, and past performances. Built with Python and XGBoost, it provides a data-driven approach to understanding player performance.
 
 ---
 
