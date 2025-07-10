@@ -8,7 +8,7 @@
 
 ## 📓 Project Notebook
 
-[View the Colab notebook file]([https://colab.research.google.com/drive/1AbZAWP6nwoY2wwCtSYIJ8uDNASa6TwH3?usp=sharing](https://colab.research.google.com/drive/1Gj53g6_BQ1cJi0TQ7aifQRGuFSCnRPVt))
+[View the Colab notebook file](https://colab.research.google.com/drive/1Gj53g6_BQ1cJi0TQ7aifQRGuFSCnRPVt)
 
 
 ---
