@@ -36,10 +36,3 @@ Place these files in the same directory:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repo:
-
-```bash
-git clone https://github.com/your-username/runs-predictor.git
-cd runs-predictor
