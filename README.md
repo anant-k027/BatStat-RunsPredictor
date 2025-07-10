@@ -37,7 +37,6 @@ Place these files in the same directory:
 - `matches.csv`
 - `most_runs_average_strikerate.csv`
 - `teams.csv`
-- `teamwise_home_and_away.csv`
 
 ---
 
