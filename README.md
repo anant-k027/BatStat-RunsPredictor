@@ -16,10 +16,8 @@
 ## 📊 Features
 
 - Predicts total runs scored by a batsman in a match.
-- Uses historical IPL data including batting position, average, strike rate, and season.
-- Trained using the XGBoost Regressor.
+- Uses past IPL data including batting position, average, strike rate, and past season performances.
 - Visualizes actual vs predicted scores.
-- Mean Absolute Error (MAE) is displayed for evaluation.
 
 ---
 
