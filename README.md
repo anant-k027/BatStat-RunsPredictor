@@ -4,12 +4,6 @@
 
 **BatStat** is a machine learning project that predicts the total runs a batsman will score in an IPL match using player stats, match context, and past performances. Built with Python and XGBoost, it provides a data-driven approach to understanding player performance.
 
----
-
-## 📓 Project Notebook
-
-[View the Colab notebook file](https://colab.research.google.com/drive/1Gj53g6_BQ1cJi0TQ7aifQRGuFSCnRPVt)
-
 
 ---
 
